@@ -1,2 +1,2 @@
 # jsc
-javaScript compilercompiles .js into .elf
+javaScript compiler compiles .js into .elf
