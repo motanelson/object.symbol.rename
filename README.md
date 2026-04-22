@@ -1,1 +1,1 @@
-herebuild a AI computer
+here build a AI computer
