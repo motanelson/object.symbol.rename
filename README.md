@@ -1,4 +1,4 @@
-object binary type
+object symbol rename
 
 
 
